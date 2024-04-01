@@ -7,6 +7,7 @@ Insects are a diverse group with over 120 Taxonomic orders and about 1.3 million
 **Figure:** Results of Image Classification model
 
 
+
  ![image](https://github.com/NicoleK286/Insect-Image-Classification-Object-Detection/assets/113560469/90bee6e9-93e4-4fee-9931-e45007e74e6b)
  
 **Figure:** Results of multi-object detection and multi-class classification with the Yolov8 model.
